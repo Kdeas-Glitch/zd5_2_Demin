@@ -1,0 +1,191 @@
+﻿^contentpage {
+    background-color: lightcyan;
+}
+
+stacklayout {
+    margin: 5;
+}
+
+label {
+    color: black;
+}
+
+#header {
+    font-size: 32;
+    font-weight: bold;
+}
+
+.english {
+    font-weight: bold;
+    font-size: large;
+    color: red;
+}
+
+.russian {
+    font-size: medium;
+}
+
+stacklayout label {
+    font-family: Verdana;
+}
+
+#header {
+    color: white;
+
+}
+#Back {
+    background-color: white;
+    height: 50;
+    font-size: 15;
+}
+#Button {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    
+    
+}
+#Check {
+    color: white;
+    margin-top: 5;
+}
+#CheckBox {
+    color: white;
+}
+#Editor {
+    
+    font-size: 25;
+    background-color: white;
+    height: 50;
+}
+
+#Check2 {
+    color: white;
+    margin-top: 5;
+    margin-left: 150;
+    font-weight: bold;
+}
+
+#Text{
+    
+    color: black;
+}
+#TextBorder{
+    color: black;
+    border:solid;
+    border-color:black;
+}
+
+#box-style {
+    background-color: black; /* Чёрный цвет */
+    color: black;
+    width: 200; /* Можно задать размеры в CSS */
+    height: 200;
+    horizontal-options: center;
+    vertical-options: center-and-expand;
+}
+
+.label-style {
+    color: red;
+    font-size: 20;
+}
+#Button1 {
+    color: white;
+    border-radius: 50;
+    background-color: red;
+    margin-left: 50;
+    margin-right: 50;
+}
+
+#Button2 {
+    color: black;
+    border-radius: 50;
+    background-color:azure;
+    margin-left: 50;
+    margin-right: 50;
+}
+#Button3 {
+    color: black;
+    border-radius: 50;
+    background-color: white;
+    border-color: red;
+    margin-left: 50;
+    margin-right: 50;
+    border-width: 1;
+}
+#Button4 {
+    color: orange;
+    border-radius: 50;
+    background-color: white;
+    border-color: red;
+    margin-left: 50;
+    margin-right: 50;
+    border-width: 1;
+}
+
+#Large_Button {
+    height: 90;
+    font-size: large;
+    border-radius: 50;
+    margin-left: 50;
+    margin-right: 50;
+}
+
+#Normal_Button {
+    height: 50;
+    font-size: medium;
+    border-radius: 50;
+    margin-left: 50;
+    margin-right: 50;
+}
+
+#Small_Button {
+    height: 35;
+    font-size: small;
+    border-radius: 50;
+    margin-left: 50;
+    margin-right: 50;
+}
+
+#On_l {
+    font-size: 10;
+    margin-top: 6;
+    margin-left:10;
+    color: white;
+}
+
+#Off_l {
+    font-size: 10;
+    margin-top: 6;
+    margin-left:20;
+    color: black;
+}
+
+#Yes_l {
+    font-size: 10;
+    margin-top: 6;
+    margin-left: 13;
+    color: white;
+}
+
+#X_l {
+    font-size: 12;
+    margin-top: 5;
+    margin-left: 25;
+    color: black;
+}
+#Radio {
+    background-color: #e0ffff;
+}
+#CheckBox2{
+    color:green
+}
+
+#Ras_Label {
+    font-size:18;
+    color:black;
+
+}
+#Picker{
+    background-color:orange;
+}

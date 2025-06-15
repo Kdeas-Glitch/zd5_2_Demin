@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd5_2_Demin.Page1">
+    
+    
+
+    <ContentPage>
+        <ContentPage.Resources>
+            <StyleSheet Source="/mystyle.css" />
+        </ContentPage.Resources>
+        <StackLayout>
+            <Button StyleId="Button1" Text="button" />
+            <Button StyleId="Button2" Text="button"/>
+            <Button StyleId="Button3" Text="button"/>
+            <Button StyleId="Button4" Text="button"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <ContentPage.Resources>
+            <StyleSheet Source="/mystyle.css" />
+        </ContentPage.Resources>
+        <StackLayout>
+            <Label x:Name="Label_Choise"/>
+            <Button TextColor="White" BackgroundColor="Green" x:Name="button1" Clicked="Clikc_Button1" Text="Large" StyleId="Large_Button"/>
+            <Button TextColor="White" BackgroundColor="Green" x:Name="button2" Clicked="Clikc_Button2" Text="Normal" StyleId="Normal_Button"/>
+            <Button TextColor="White" BackgroundColor="Green" x:Name="button3" Clicked="Clikc_Button3" Text="Small" StyleId="Small_Button"/>
+            <Grid>
+                <Switch OnColor="Green" HorizontalOptions="Start" x:Name="Switch_button" Toggled= "switcher_Toggled"/>
+                <Label x:Name="On_label"  Text="On" StyleId="On_l" IsVisible="false" IsEnabled="False"/>
+                <Label x:Name="Off_label"  Text="Off" StyleId="Off_l" IsEnabled="False" />
+            </Grid>
+
+            <Grid>
+                <Switch OnColor="Green" HorizontalOptions="Start" x:Name="Switch_button2" Toggled= "switcher_Toggled2"/>
+                <Label x:Name="Yes_label"  Text="✔" StyleId="Yes_l" IsVisible="false" IsEnabled="False"/>
+                <Label x:Name="X_label"  Text="x" StyleId="X_l" IsEnabled="False"/>
+            </Grid>
+            <RadioButton StyleId="Radio"/>
+            <RadioButton StyleId="Radio"/>
+            <CheckBox StyleId="CheckBox2" Color="Green"/>
+            
+
+        </StackLayout>
+    </ContentPage>
+
+
+</CarouselPage>

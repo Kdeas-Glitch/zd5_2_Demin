@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Xamarin\\zd5_2_Demin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|e:\\xamarin\\zd5_2_demin\\zd5_2_demin\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|solutionrelative:zd5_2_demin\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|e:\\xamarin\\zd5_2_demin\\zd5_2_demin\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|solutionrelative:zd5_2_demin\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|e:\\xamarin\\zd5_2_demin\\zd5_2_demin\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|solutionrelative:zd5_2_demin\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|e:\\xamarin\\zd5_2_demin\\zd5_2_demin\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|solutionrelative:zd5_2_demin\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|e:\\xamarin\\zd5_2_demin\\zd5_2_demin\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|solutionrelative:zd5_2_demin\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|e:\\xamarin\\zd5_2_demin\\zd5_2_demin\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D194B46E-68A8-446A-9431-F1EF74C01897}|zd5_2_Demin\\zd5_2_Demin.csproj|solutionrelative:zd5_2_demin\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Validation.cs",
+              "RelativeDocumentMoniker": "zd5_2_Demin\\Validation.cs",
+              "ToolTip": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Validation.cs",
+              "RelativeToolTip": "zd5_2_Demin\\Validation.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:06:41.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.xaml",
+              "DocumentMoniker": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Welcome.xaml",
+              "RelativeDocumentMoniker": "zd5_2_Demin\\Welcome.xaml",
+              "ToolTip": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Welcome.xaml",
+              "RelativeToolTip": "zd5_2_Demin\\Welcome.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T16:53:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mystyle.css",
+              "DocumentMoniker": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\mystyle.css",
+              "RelativeDocumentMoniker": "zd5_2_Demin\\mystyle.css",
+              "ToolTip": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\mystyle.css",
+              "RelativeToolTip": "zd5_2_Demin\\mystyle.css",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-15T16:51:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Save.cs",
+              "DocumentMoniker": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Save.cs",
+              "RelativeDocumentMoniker": "zd5_2_Demin\\Save.cs",
+              "ToolTip": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Save.cs",
+              "RelativeToolTip": "zd5_2_Demin\\Save.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:40:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "zd5_2_Demin\\Page1.xaml.cs",
+              "ToolTip": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Page1.xaml.cs",
+              "RelativeToolTip": "zd5_2_Demin\\Page1.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:34:44.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Page1.xaml",
+              "RelativeDocumentMoniker": "zd5_2_Demin\\Page1.xaml",
+              "ToolTip": "E:\\Xamarin\\zd5_2_Demin\\zd5_2_Demin\\Page1.xaml",
+              "RelativeToolTip": "zd5_2_Demin\\Page1.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-14T09:11:04.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

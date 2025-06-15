@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd5_2_Demin.Welcome"
+             BackgroundColor="DarkGray">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/mystyle.css" />
+    </ContentPage.Resources>
+    <StackLayout>
+        <StackLayout>
+                <Label Text="Welcome" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" StyleId="header"/>
+        </StackLayout>
+        <StackLayout Spacing="0" HorizontalOptions="FillAndExpand">
+            <Entry x:Name="User_Name" HorizontalOptions="FillAndExpand"  Text="" StyleId="Back" />
+            <Entry x:Name="Password" HorizontalOptions="FillAndExpand"  Text="" StyleId="Editor" IsPassword="True"  />
+        </StackLayout>
+        <StackLayout>
+            <Button Text = "Sing In" FontSize="Large"   HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Clicked="OnButtonClicked" StyleId="Button" TextTransform="None"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+
+            <CheckBox StyleId="CheckBox2" Color="White"/>
+            <Label Text="Remember me" StyleId="Check" />
+            <Label Text="I Frogot!" StyleId="Check2" />
+        </StackLayout>
+        <Picker x:Name="picker" StyleId="Picker" HorizontalOptions="FillAndExpand" >
+            <Picker.Items>
+                <x:String>ЕКТС</x:String>
+                <x:String>РМП</x:String>
+                <x:String>РФ</x:String>
+            </Picker.Items>
+        </Picker>
+        
+
+    </StackLayout>
+</ContentPage>
